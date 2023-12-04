@@ -8,7 +8,8 @@ and perform transformations to loading it back to Data Lake Container. For Analy
 
 ### Architecture
 1. WorkFlow
-  
+  <img width="950" alt="image" src="https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/c1b4ff5d-3593-4b30-a5f6-a1800f966e26">
+
 2. Resource Group overview
   <img width="960" alt="image" src="https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/1b06fd6f-7467-4f97-8166-ad79edc8f5f2">
 
@@ -46,6 +47,8 @@ Leveraging Synapse studio, we can create tables from data lake files to run SQL 
 <img width="957" alt="image" src="https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/c1b74ff6-e73b-4fcb-a241-963551782bed">
 
 
+## Conclusion
+In this project, I have demonstrated an end to end data pipeline flow for integrating data, transforming it and finally loading into warehouse for analytics, reporting use cases within the azure data platform architecture.
 
 
 
