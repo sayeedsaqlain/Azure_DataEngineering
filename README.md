@@ -8,7 +8,8 @@ and perform transformations to loading it back to Data Lake Container. For Analy
 
 ### Architecture
 1. WorkFlow
-  <img width="950" alt="image" src="https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/c1b4ff5d-3593-4b30-a5f6-a1800f966e26">
+   
+![Data Sources (1)](https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/85d41e5f-a307-4e69-9ea3-64fbe0c90af6)
 
 2. Resource Group overview
   <img width="960" alt="image" src="https://github.com/sayeedsaqlain/Azure_DataEngineering/assets/41228969/1b06fd6f-7467-4f97-8166-ad79edc8f5f2">
